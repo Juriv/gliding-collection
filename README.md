@@ -12,17 +12,17 @@
 
 Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller https://ramotion.com/gthb<br>
 This project is maintained by Ramotion, Inc.<br>
-We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?**
-
-<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
-
 The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
 <br>
 
 ## Try this UI control in action
+Try this UI component and more like this in our iOS app. Contact if looking for developers for your project
 
-<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gliding-collection&mt=8" > <img src="https://github.com/Ramotion/navigation-stack/raw/master/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="170" height="58"></a>
+<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gliding-collection&mt=8" > 
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
+
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="152" height="34"></a> <br>
 
 ## Requirements
 
