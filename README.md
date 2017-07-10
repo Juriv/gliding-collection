@@ -20,7 +20,7 @@ Try this UI component and more like this in our iOS app. Contact if looking for 
 <img src="https://github.com/headndshoulders/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
 
 <a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/gliding-collection/contact_our_team@2x.png" width="166" height="34"></a> <br>
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="166" height="34"></a> <br>
 
 ## Requirements
 
