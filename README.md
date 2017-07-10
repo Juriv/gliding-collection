@@ -13,8 +13,7 @@
 Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller https://ramotion.com/gthb<br>
 This project is maintained by Ramotion, Inc. The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
 
-
-## Try this UI control in action
+**Try this UI control in action**<br>
 Try this UI component and more like this in our iOS app. Contact if looking for developers for your project
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gliding-collection&mt=8" > 
