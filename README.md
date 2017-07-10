@@ -14,7 +14,8 @@ Gliding Collection is a smooth, flowing, customizable decision for a UICollectio
 This project is maintained by Ramotion, Inc.<br>
 We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?**
 
-<a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch" > <img src="https://github.com/Ramotion/navigation-stack/raw/master/contact_our_team@2x.png" width="150" height="30"></a>
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
 
 The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
 <br>
