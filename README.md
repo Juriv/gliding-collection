@@ -10,10 +10,10 @@
 [![Codebeat](https://codebeat.co/badges/6a009992-5bf2-4730-aa35-f3b20ce7693d)](https://codebeat.co/projects/github-com-ramotion-gliding-collection)
 ![Swift](https://img.shields.io/badge/Swift-3.1-2ecc71.svg)
 
-Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller https://ramotion.com/gthb The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
+Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller https://ramotion.com/gthb (The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection)).<br>
 This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-**Try this UI component and more like this in our iOS app.**<br>
+**Try this UI component and more like this in our iOS app.**<br><br>
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gliding-collection&mt=8" > 
 <img src="https://github.com/headndshoulders/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
 <a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
@@ -150,7 +150,9 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 <img src="https://github.com/headndshoulders/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
 
 <a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
+<br>
+<br>
 
 Follow us for the latest updates<br>
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/foolding-cell-android)
