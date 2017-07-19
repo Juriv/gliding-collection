@@ -11,10 +11,11 @@
 ![Swift](https://img.shields.io/badge/Swift-3.1-2ecc71.svg)
 
 Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller https://ramotion.com/gthb<br>
-This project is maintained by Ramotion, Inc. The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
+The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection).
 
-**Try this UI control in action**<br>
-Try this UI component and more like this in our iOS app. Contact if looking for developers for your project
+**Try this UI component and more like this in our iOS app.**<br>
+This project is maintained by Ramotion, Inc.<br>
+We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gliding-collection&mt=8" > 
 <img src="https://github.com/headndshoulders/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
